@@ -17,11 +17,11 @@ Java Backend Engineer and Team Lead, based in Hanoi. I design and build integrat
 
 ## Tech stack
 
-**Backend:** Java, Spring Boot, REST APIs, WebSocket
-**Data:** Microsoft SQL Server, query optimization, indexing
-**Messaging and streaming:** Kafka, Kafka Connect, Debezium, RabbitMQ
-**Caching and reliability:** Redis, idempotency, retry mechanisms, async processing
-**Infrastructure:** Nginx, API Gateway, Elastic APM
+- **Backend:** Java, Spring Boot, REST APIs, WebSocket
+- **Data:** Microsoft SQL Server, query optimization, indexing
+- **Messaging and streaming:** Kafka, Kafka Connect, Debezium, RabbitMQ
+- **Caching and reliability:** Redis, idempotency, retry mechanisms, async processing
+- **Infrastructure:** Nginx, API Gateway, Elastic APM
 
 ## Projects
 
